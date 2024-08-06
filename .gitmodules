@@ -4,3 +4,6 @@
 [submodule "learning-rust"]
 	path = learning-rust
 	url = git@github.com:banber0/rustlings.git
+[submodule "learing-rust-two"]
+	path = learing-rust-two
+	url = git@github.com:banber0/rustlingstwo.git
