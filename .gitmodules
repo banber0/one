@@ -2,3 +2,6 @@
 	path = learning-cxx
 	url = git@github.com:banber0/learning-cxx.git
 
+[submodule "exams"]
+	path = exams
+	url = git@github.com:banber0/rustlings.git
