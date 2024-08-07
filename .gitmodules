@@ -3,3 +3,6 @@
 	url = git@github.com:banber0/learning-cxx.git
 
 
+[submodule "rustings"]
+	path = rustings
+	url = git@github.com:banber0/rustlings.git
